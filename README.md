@@ -1,4 +1,4 @@
-## Olá👋! Eu me chamo Daniel <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/pjx4yeQ44uAAAAAC/hello-chat-hi-chat.gif"><img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/T6kJhTcIi8oAAAAd/newton-apple.gif">
+## Olá👋! Eu me chamo Daniel
 - 🔭 Atualmente sou mestrando em Física pela UFMT.
 - 🌱 Atualmente estou aprendendo Pyhton e Física de materiais 2D.
 - 📫 Como chegar até mim: daniel.lopes@fisica.ufmt.br
@@ -27,7 +27,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 	
-  ##
+
+## Contatos:
 	
   <div>
   <a href = "mailto: daniel.lopes@fisica.ufmt.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,7 +37,7 @@
   <a href="https://www.facebook.com/danielbroter.pvh?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
-##
+
 
 ![Snake animation](https://github.com/loppes-daniel/loppes-daniel/blob/output/github-contribution-grid-snake.svg)
 	
