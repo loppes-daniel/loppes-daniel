@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865396972281528351/1068734936393195571/my_gif.gif">
+
 </div>
 
  ##
@@ -13,14 +13,15 @@
 <div>
 	<a href="https://github.com/loppes-daniel">
   	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=loppes-daniel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppes-daniel&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 
 <div>
 <div style="display: inline_block"><br>
+	<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865396972281528351/1068734936393195571/my_gif.gif">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/fortran-lang/fortran-lang.org/blob/5469465d08d3fcbf16d048e651ca5c9ba050839c/assets/img/fortran-logo.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
 		<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
